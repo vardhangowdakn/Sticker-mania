@@ -1,2 +1,2 @@
 # FrontEnd
-Front End of E-Commerce Wwebsite Sticker Mania
+Front End of E-Commerce Website Sticker Mania
