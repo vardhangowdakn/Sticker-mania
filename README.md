@@ -1,2 +1,2 @@
 # FrontEnd
-react.js,tailwind
+Front End of E-Commerce Wwebsite Sticker Mania
